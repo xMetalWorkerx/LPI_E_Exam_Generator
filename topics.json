@@ -1,0 +1,78 @@
+{
+  "1.1": {
+    "subtopic": "Linux Evolution and Popular Operating Systems",
+    "weight": 2
+  },
+  "1.2": {
+    "subtopic": "Major Open Source Applications",
+    "weight": 2
+  },
+  "1.3": {
+    "subtopic": "Open Source Software and Licensing",
+    "weight": 1
+  },
+  "1.4": {
+    "subtopic": "ICT Skills and Working in Linux",
+    "weight": 2
+  },
+  "2.1": {
+    "subtopic": "Command Line Basics",
+    "weight": 3
+  },
+  "2.2": {
+    "subtopic": "Using the Command Line to Get Help",
+    "weight": 2
+  },
+  "2.3": {
+    "subtopic": "Using Directories and Listing Files",
+    "weight": 2
+  },
+  "2.4": {
+    "subtopic": "Creating, Moving and Deleting Files",
+    "weight": 2
+  },
+  "3.1": {
+    "subtopic": "Archiving Files on the Command Line",
+    "weight": 2
+  },
+  "3.2": {
+    "subtopic": "Searching and Extracting Data from Files",
+    "weight": 3
+  },
+  "3.3": {
+    "subtopic": "Turning Commands into a Script",
+    "weight": 4
+  },
+  "4.1": {
+    "subtopic": "Choosing an Operating System",
+    "weight": 1
+  },
+  "4.2": {
+    "subtopic": "Understanding Computer Hardware",
+    "weight": 2
+  },
+  "4.3": {
+    "subtopic": "Where Data is Stored",
+    "weight": 3
+  },
+  "4.4": {
+    "subtopic": "Your Computer on the Network",
+    "weight": 2
+  },
+  "5.1": {
+    "subtopic": "Basic Security and Identifying User Types",
+    "weight": 2
+  },
+  "5.2": {
+    "subtopic": "Creating Users and Groups",
+    "weight": 2
+  },
+  "5.3": {
+    "subtopic": "Managing File Permissions and Ownership",
+    "weight": 2
+  },
+  "5.4": {
+    "subtopic": "Special Directories and Files",
+    "weight": 1
+  }
+}

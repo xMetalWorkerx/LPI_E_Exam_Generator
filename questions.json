@@ -1,0 +1,1589 @@
+{
+  "1.1_MCQ_1": {
+    "id": "1.1_MCQ_1",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Which Linux distribution is known for its long-term support (LTS) versions?",
+    "choices": ["Debian", "Ubuntu", "Red Hat", "SUSE"],
+    "correct_answers": ["Ubuntu"],
+    "explanation": "Ubuntu is well-known for offering Long-Term Support (LTS) versions, which are released every two years and supported for five years.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_2": {
+    "id": "1.1_MCQ_2",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Which of the following is NOT a Linux distribution?",
+    "choices": ["Android", "CentOS", "Raspbian", "iOS"],
+    "correct_answers": ["iOS"],
+    "explanation": "iOS is an operating system created by Apple for its mobile devices and is not a Linux distribution.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_3": {
+    "id": "1.1_MCQ_3",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Raspbian is a distribution of Linux particularly used in which of the following devices?",
+    "choices": ["Smartphones", "Raspberry Pi", "Laptops", "Mainframe computers"],
+    "correct_answers": ["Raspberry Pi"],
+    "explanation": "Raspbian is a Debian-based distribution designed specifically for the Raspberry Pi.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_4": {
+    "id": "1.1_MCQ_4",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Which distribution is known as the 'community edition' of Red Hat Enterprise Linux?",
+    "choices": ["SUSE", "CentOS", "Debian", "Ubuntu"],
+    "correct_answers": ["CentOS"],
+    "explanation": "CentOS is a free, community-supported computing platform functionally compatible with its upstream source, Red Hat Enterprise Linux (RHEL).",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_5": {
+    "id": "1.1_MCQ_5",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Which Linux distribution is particularly known for its YAST configuration tool?",
+    "choices": ["Ubuntu", "Debian", "Red Hat", "openSUSE"],
+    "correct_answers": ["openSUSE"],
+    "explanation": "YAST (Yet Another Setup Tool) is a Linux operating system setup and configuration tool that is featured in openSUSE.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_6": {
+    "id": "1.1_MCQ_6",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Which operating system is primarily used on Raspberry Pi devices?",
+    "choices": ["Windows 10 IoT", "Raspbian", "Android", "Ubuntu Server"],
+    "correct_answers": ["Raspbian"],
+    "explanation": "Raspbian, a Debian-based OS, is the primary operating system used on Raspberry Pi devices.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_7": {
+    "id": "1.1_MCQ_7",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "What is a key feature of 'Scientific Linux'?",
+    "choices": ["Optimized for gaming", "Focused on educational use", "Designed for scientific research", "Built for web hosting services"],
+    "correct_answers": ["Designed for scientific research"],
+    "explanation": "Scientific Linux is a Linux distribution produced by Fermilab, CERN, and other labs and universities for scientific research.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.1_MAQ_1": {
+    "id": "1.1_MAQ_1",
+    "subtopic": "1.1",
+    "type": "MAQ",
+    "text": "Which of the following are examples of Linux distributions? (Choose all that apply)",
+    "choices": ["Ubuntu", "Fedora", "Android", "macOS"],
+    "correct_answers": ["Ubuntu", "Fedora", "Android"],
+    "explanation": "Ubuntu and Fedora are Linux distributions. Android is based on the Linux kernel, whereas macOS is not a Linux distribution.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.1_MAQ_2": {
+    "id": "1.1_MAQ_2",
+    "subtopic": "1.1",
+    "type": "MAQ",
+    "text": "Which of the following systems use Linux? (Choose all that apply)",
+    "choices": ["Raspberry Pi", "Android smartphones", "Apple MacBooks", "IBM mainframes"],
+    "correct_answers": ["Raspberry Pi", "Android smartphones", "IBM mainframes"],
+    "explanation": "Raspberry Pi uses Raspbian (a Linux distribution), Android smartphones use the Android OS (based on Linux), and IBM mainframes can run Linux. Apple MacBooks run macOS, which is not based on Linux.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.1_MAQ_3": {
+    "id": "1.1_MAQ_3",
+    "subtopic": "1.1",
+    "type": "MAQ",
+    "text": "Select the distributions that are based on Debian. (Choose all that apply)",
+    "choices": ["Ubuntu", "Fedora", "openSUSE", "Linux Mint"],
+    "correct_answers": ["Ubuntu", "Linux Mint"],
+    "explanation": "Ubuntu and Linux Mint are based on Debian. Fedora is based on Red Hat Linux and openSUSE is an independent distribution.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_8": {
+    "id": "1.1_MCQ_8",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Which Linux distribution is primarily used for digital forensics and penetration testing?",
+    "choices": ["Fedora", "Kali Linux", "Ubuntu", "Arch Linux"],
+    "correct_answers": ["Kali Linux"],
+    "explanation": "Kali Linux is a distribution that is widely used for digital forensics and penetration testing due to its extensive collection of security and forensic tools.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_9": {
+    "id": "1.1_MCQ_9",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Which distribution is directly derived from Debian?",
+    "choices": ["Ubuntu", "Fedora", "Manjaro", "Gentoo"],
+    "correct_answers": ["Ubuntu"],
+    "explanation": "Ubuntu is derived directly from Debian and is one of its most popular derivatives.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_10": {
+    "id": "1.1_MCQ_10",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "What is the primary focus of the Linux Mint distribution?",
+    "choices": ["System security", "Ease of use", "High performance computing", "Server deployment"],
+    "correct_answers": ["Ease of use"],
+    "explanation": "Linux Mint is known for its ease of use and user-friendliness, especially for users transitioning from other operating systems.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_11": {
+    "id": "1.1_MCQ_11",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Which Linux distribution uses RPM package management?",
+    "choices": ["Debian", "Ubuntu", "Fedora", "Linux Mint"],
+    "correct_answers": ["Fedora"],
+    "explanation": "Fedora uses the RPM (Red Hat Package Manager) system for package management.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_12": {
+    "id": "1.1_MCQ_12",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Which of the following is a lightweight Linux distribution designed for older hardware?",
+    "choices": ["Lubuntu", "CentOS", "Red Hat", "SUSE"],
+    "correct_answers": ["Lubuntu"],
+    "explanation": "Lubuntu is a lightweight version of Ubuntu designed to be less resource-intensive, making it suitable for older hardware.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_13": {
+    "id": "1.1_MCQ_13",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Which Linux distribution is commonly used in cloud environments for its scalability and robustness?",
+    "choices": ["Red Hat Enterprise Linux", "Arch Linux", "Ubuntu Server", "Manjaro"],
+    "correct_answers": ["Red Hat Enterprise Linux"],
+    "explanation": "Red Hat Enterprise Linux (RHEL) is widely used in cloud and enterprise environments due to its scalability, robustness, and extensive support.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_14": {
+    "id": "1.1_MCQ_14",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "What is the default desktop environment for Ubuntu?",
+    "choices": ["KDE", "GNOME", "XFCE", "LXDE"],
+    "correct_answers": ["GNOME"],
+    "explanation": "As of Ubuntu 17.10, the GNOME desktop environment is the default interface.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.1_MCQ_15": {
+    "id": "1.1_MCQ_15",
+    "subtopic": "1.1",
+    "type": "MCQ",
+    "text": "Which Linux distribution is known for its advanced package management system called 'Portage'?",
+    "choices": ["Debian", "Gentoo", "Fedora", "Ubuntu"],
+    "correct_answers": ["Gentoo"],
+    "explanation": "Gentoo features an advanced package management system called 'Portage' that is both flexible and powerful.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+  "1.1_MAQ_4": {
+    "id": "1.1_MAQ_4",
+    "subtopic": "1.1",
+    "type": "MAQ",
+    "text": "Which of the following are true about 'Android'? (Choose all that apply)",
+    "choices": ["It is based on the Linux kernel", "It is a distribution of Linux", "It is used mainly on mobile devices", "It uses RPM for package management"],
+    "correct_answers": ["It is based on the Linux kernel", "It is used mainly on mobile devices"],
+    "explanation": "Android is based on the Linux kernel and is primarily used for mobile devices. It is not a Linux distribution in the traditional sense and does not use RPM for package management.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.1_MAQ_5": {
+    "id": "1.1_MAQ_5",
+    "subtopic": "1.1",
+    "type": "MAQ",
+    "text": "Select the distributions that are suitable for beginners. (Choose all that apply)",
+    "choices": ["Ubuntu", "Fedora", "Arch Linux", "Gentoo"],
+    "correct_answers": ["Ubuntu", "Fedora"],
+    "explanation": "Ubuntu and Fedora are known for their user-friendliness and are often recommended for beginners. Arch Linux and Gentoo, on the other hand, are more suited for advanced users.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_1": {
+    "id": "1.2_MCQ_1",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "Which open-source application is commonly used for image editing?",
+    "choices": ["LibreOffice", "GIMP", "Thunderbird", "Apache HTTPD"],
+    "correct_answers": ["GIMP"],
+    "explanation": "GIMP (GNU Image Manipulation Program) is a widely used open-source application for image editing.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_2": {
+    "id": "1.2_MCQ_2",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "Which tool is primarily used for managing packages in Debian-based distributions?",
+    "choices": ["rpm", "yum", "dpkg", "pacman"],
+    "correct_answers": ["dpkg"],
+    "explanation": "dpkg is the base package management system for Debian-based Linux distributions.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_3": {
+    "id": "1.2_MCQ_3",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "What is the main purpose of the Apache HTTPD server?",
+    "choices": ["File sharing", "Web serving", "Email server", "Database management"],
+    "correct_answers": ["Web serving"],
+    "explanation": "Apache HTTPD is primarily used as a web server for serving web pages.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_4": {
+    "id": "1.2_MCQ_4",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "Which open-source software is used as an alternative to Microsoft Office?",
+    "choices": ["GIMP", "Thunderbird", "LibreOffice", "NGINX"],
+    "correct_answers": ["LibreOffice"],
+    "explanation": "LibreOffice is a free and open-source office suite, used as an alternative to Microsoft Office.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_5": {
+    "id": "1.2_MCQ_5",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "Which programming language is renowned for its role in web development and is widely used in server-side scripting?",
+    "choices": ["C", "Java", "Python", "PHP"],
+    "correct_answers": ["PHP"],
+    "explanation": "PHP is a popular scripting language that is particularly suited to web development and widely used for server-side scripting.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_6": {
+    "id": "1.2_MCQ_6",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "NGINX is commonly used as a(n):",
+    "choices": ["Image editor", "Office suite", "Web server", "Email client"],
+    "correct_answers": ["Web server"],
+    "explanation": "NGINX is primarily used as a web server and also as a reverse proxy, load balancer, and HTTP cache.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_7": {
+    "id": "1.2_MCQ_7",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "Which software is an open-source relational database management system?",
+    "choices": ["MariaDB", "Thunderbird", "Apache HTTPD", "Nextcloud"],
+    "correct_answers": ["MariaDB"],
+    "explanation": "MariaDB is a popular open-source relational database management system, which is a fork of MySQL.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.2_MAQ_1": {
+    "id": "1.2_MAQ_1",
+    "subtopic": "1.2",
+    "type": "MAQ",
+    "text": "Which of the following are server applications? (Choose all that apply)",
+    "choices": ["LibreOffice", "Apache HTTPD", "NGINX", "GIMP"],
+    "correct_answers": ["Apache HTTPD", "NGINX"],
+    "explanation": "Apache HTTPD and NGINX are both used as server applications, specifically as web servers.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.2_MAQ_2": {
+    "id": "1.2_MAQ_2",
+    "subtopic": "1.2",
+    "type": "MAQ",
+    "text": "Select the development languages commonly used in open-source software. (Choose all that apply)",
+    "choices": ["Java", "C", "Python", "HTML"],
+    "correct_answers": ["Java", "C", "Python"],
+    "explanation": "Java, C, and Python are common programming languages used in the development of open-source software. HTML is a markup language used for creating web pages.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.2_MAQ_3": {
+    "id": "1.2_MAQ_3",
+    "subtopic": "1.2",
+    "type": "MAQ",
+    "text": "Which tools are used for package management in Linux? (Choose all that apply)",
+    "choices": ["dpkg", "yum", "apt-get", "nmap"],
+    "correct_answers": ["dpkg", "yum", "apt-get"],
+    "explanation": "dpkg, yum, and apt-get are tools used for package management in various Linux distributions. nmap is a network scanning tool.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_8": {
+    "id": "1.2_MCQ_8",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "What is the primary function of Nextcloud?",
+    "choices": ["Web server", "Image editing", "Cloud storage and collaboration", "Package management"],
+    "correct_answers": ["Cloud storage and collaboration"],
+    "explanation": "Nextcloud is an open-source software suite that provides cloud storage and collaboration functionalities.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_9": {
+    "id": "1.2_MCQ_9",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "Which of these languages is predominantly used for system-level programming in Linux?",
+    "choices": ["JavaScript", "Perl", "C", "PHP"],
+    "correct_answers": ["C"],
+    "explanation": "The C programming language is predominantly used for system-level programming in Linux, including the development of the Linux kernel.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_10": {
+    "id": "1.2_MCQ_10",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "Which package management tool is used with Red Hat and CentOS?",
+    "choices": ["apt-get", "yum", "pacman", "dpkg"],
+    "correct_answers": ["yum"],
+    "explanation": "Yum (Yellowdog Updater Modified) is the default package management tool used in Red Hat and CentOS distributions.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_11": {
+    "id": "1.2_MCQ_11",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "Which open-source web server software is known for its performance and efficiency, especially in handling a large number of concurrent connections?",
+    "choices": ["Apache HTTPD", "Tomcat", "IIS", "NGINX"],
+    "correct_answers": ["NGINX"],
+    "explanation": "NGINX is known for its high performance, stability, rich feature set, simple configuration, and low resource consumption, particularly in handling concurrent connections.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_12": {
+    "id": "1.2_MCQ_12",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "What is the primary purpose of the Samba software in a Linux environment?",
+    "choices": ["Web serving", "File and print services for Windows clients", "Email server", "Network firewall"],
+    "correct_answers": ["File and print services for Windows clients"],
+    "explanation": "Samba is an open-source software that provides seamless file and print services to SMB/CIFS clients, such as Windows.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_13": {
+    "id": "1.2_MCQ_13",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "What is the main use of the MariaDB database in web applications?",
+    "choices": ["Web server", "Database management", "Email services", "Network monitoring"],
+    "correct_answers": ["Database management"],
+    "explanation": "MariaDB is a fork of MySQL and is used primarily for database management in web applications.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.2_MCQ_14": {
+    "id": "1.2_MCQ_14",
+    "subtopic": "1.2",
+    "type": "MCQ",
+    "text": "In Linux, which programming language is commonly used for scripting and automation tasks?",
+    "choices": ["Java", "C", "Python", "JavaScript"],
+    "correct_answers": ["Python"],
+    "explanation": "Python is widely used in the Linux environment for scripting and automation tasks due to its simplicity and powerful libraries.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.2_MAQ_4": {
+    "id": "1.2_MAQ_4",
+    "subtopic": "1.2",
+    "type": "MAQ",
+    "text": "Which of the following are examples of server applications? (Choose all that apply)",
+    "choices": ["Firefox", "Apache HTTPD", "NGINX", "LibreOffice"],
+    "correct_answers": ["Apache HTTPD", "NGINX"],
+    "explanation": "Apache HTTPD and NGINX are both used as server applications, specifically as web servers.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.2_MAQ_5": {
+    "id": "1.2_MAQ_5",
+    "subtopic": "1.2",
+    "type": "MAQ",
+    "text": "Select all the open-source programming languages mentioned in the LPI Learning Material. (Choose all that apply)",
+    "choices": ["Java", "C", "Perl", "Ruby"],
+    "correct_answers": ["Java", "C", "Perl"],
+    "explanation": "Java, C, and Perl are mentioned in the LPI Learning Material as open-source programming languages used in Linux development.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+  "1.2_MAQ_6": {
+    "id": "1.2_MAQ_6",
+    "subtopic": "1.2",
+    "type": "MAQ",
+    "text": "Which of the following are package management tools in Linux? (Choose all that apply)",
+    "choices": ["dpkg", "yum", "apt-get", "IIS"],
+    "correct_answers": ["dpkg", "yum", "apt-get"],
+    "explanation": "dpkg, yum, and apt-get are tools used for package management in Linux. IIS is not a package management tool; it is a web server software used in Windows.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.3_MCQ_1": {
+    "id": "1.3_MCQ_1",
+    "subtopic": "1.3",
+    "type": "MCQ",
+    "text": "Which of the following is not one of the 'four freedoms' of Free Software as defined by Richard Stallman?",
+    "choices": ["Freedom to run the program for any purpose", "Freedom to study and modify the program", "Freedom to redistribute copies of the software", "Freedom to use the software for commercial purposes"],
+    "correct_answers": ["Freedom to use the software for commercial purposes"],
+    "explanation": "The 'four freedoms' of Free Software focus on using, studying, modifying, and redistributing the software, but do not explicitly mention commercial usage.",
+    "difficulty": "Medium",
+    "topic_weight": 1
+  },
+
+  "1.3_MCQ_2": {
+    "id": "1.3_MCQ_2",
+    "subtopic": "1.3",
+    "type": "MCQ",
+    "text": "What does the term 'copyleft' refer to in the context of open source licensing?",
+    "choices": ["A type of permissive license", "The principle that modified versions of a software must also be free", "The lack of any copyright restrictions", "A proprietary software license"],
+    "correct_answers": ["The principle that modified versions of a software must also be free"],
+    "explanation": "Copyleft is a licensing principle that ensures that modified versions of a software remain free and open, as in the original version.",
+    "difficulty": "Medium",
+    "topic_weight": 1
+  },
+
+  "1.3_MCQ_3": {
+    "id": "1.3_MCQ_3",
+    "subtopic": "1.3",
+    "type": "MCQ",
+    "text": "Which organization is primarily responsible for the GNU General Public License (GPL)?",
+    "choices": ["Open Source Initiative (OSI)", "Apache Software Foundation", "Free Software Foundation (FSF)", "Linux Foundation"],
+    "correct_answers": ["Free Software Foundation (FSF)"],
+    "explanation": "The Free Software Foundation (FSF) is the organization behind the GNU General Public License (GPL), one of the most widely used free software licenses.",
+    "difficulty": "Easy",
+    "topic_weight": 1
+  },
+
+  "1.3_MCQ_4": {
+    "id": "1.3_MCQ_4",
+    "subtopic": "1.3",
+    "type": "MCQ",
+    "text": "What distinguishes permissive licenses from copyleft licenses?",
+    "choices": ["Permissive licenses allow proprietary use of the software", "Copyleft licenses do not allow commercial use", "Permissive licenses restrict modification of the software", "Copyleft licenses require payment for use"],
+    "correct_answers": ["Permissive licenses allow proprietary use of the software"],
+    "explanation": "Permissive licenses, unlike copyleft licenses, allow proprietary use of the software, meaning modified versions can be non-free.",
+    "difficulty": "Medium",
+    "topic_weight": 1
+  },
+
+  "1.3_MCQ_5": {
+    "id": "1.3_MCQ_5",
+    "subtopic": "1.3",
+    "type": "MCQ",
+    "text": "Which of the following is a primary difference between Free Software and Open Source Software?",
+    "choices": ["Open Source Software cannot be modified", "Free Software does not allow commercial use", "Open Source focuses more on pragmatic benefits than political/ethical concerns", "Free Software is not available for public use"],
+    "correct_answers": ["Open Source focuses more on pragmatic benefits than political/ethical concerns"],
+    "explanation": "While both Free Software and Open Source Software share many similarities, Open Source focuses more on the pragmatic benefits of shared source code, unlike Free Software which emphasizes political and ethical concerns.",
+    "difficulty": "Hard",
+    "topic_weight": 1
+  },
+
+  "1.3_MCQ_6": {
+    "id": "1.3_MCQ_6",
+    "subtopic": "1.3",
+    "type": "MCQ",
+    "text": "Which license is known for its principle of 'share-alike'?",
+    "choices": ["MIT License", "Apache License", "GNU General Public License (GPL)", "BSD License"],
+    "correct_answers": ["GNU General Public License (GPL)"],
+    "explanation": "The GNU General Public License (GPL) is known for its 'share-alike' principle, which requires that modified versions of GPL-licensed software must also be distributed under the GPL.",
+    "difficulty": "Medium",
+    "topic_weight": 1
+  },
+
+  "1.3_MCQ_7": {
+    "id": "1.3_MCQ_7",
+    "subtopic": "1.3",
+    "type": "MCQ",
+    "text": "What is the main purpose of the Creative Commons license?",
+    "choices": ["To provide a set of standard licenses for proprietary software", "To govern the use and distribution of open source software", "To enable sharing and reuse of creative and knowledge works", "To restrict commercial use of digital content"],
+    "correct_answers": ["To enable sharing and reuse of creative and knowledge works"],
+    "explanation": "Creative Commons licenses are designed to enable the sharing and reuse of creative works and knowledge in a legally sound way, not specifically for software.",
+    "difficulty": "Easy",
+    "topic_weight": 1
+  },
+
+  "1.3_MAQ_1": {
+    "id": "1.3_MAQ_1",
+    "subtopic": "1.3",
+    "type": "MAQ",
+    "text": "Select all true statements about open source software licenses:",
+    "choices": ["They require the disclosure of source code", "They prevent commercial use of the software", "They can be either copyleft or permissive", "They allow modification and redistribution of the software"],
+    "correct_answers": ["They require the disclosure of source code", "They can be either copyleft or permissive", "They allow modification and redistribution of the software"],
+    "explanation": "Open source licenses generally require the disclosure of source code, allow modifications and redistribution, and can be classified as either copyleft or permissive. They do not inherently prevent commercial use.",
+    "difficulty": "Hard",
+    "topic_weight": 1
+  },
+
+  "1.3_MAQ_2": {
+    "id": "1.3_MAQ_2",
+    "subtopic": "1.3",
+    "type": "MAQ",
+    "text": "Which of the following are typical characteristics of a copyleft license?",
+    "choices": ["Allows proprietary modifications", "Ensures derivatives remain open source", "Does not require sharing changes made to the software", "Requires source code to be public"],
+    "correct_answers": ["Ensures derivatives remain open source", "Requires source code to be public"],
+    "explanation": "Copyleft licenses, such as the GPL, ensure that derivatives of the software remain open source and require that source code is made public.",
+    "difficulty": "Medium",
+    "topic_weight": 1
+  },
+
+  "1.3_MAQ_3": {
+    "id": "1.3_MAQ_3",
+    "subtopic": "1.3",
+    "type": "MAQ",
+    "text": "What are common ways to monetize open source software?",
+    "choices": ["Charging for the software itself", "Providing support and maintenance services", "Selling proprietary extensions", "Crowdfunding for development"],
+    "correct_answers": ["Providing support and maintenance services", "Selling proprietary extensions", "Crowdfunding for development"],
+    "explanation": "Common ways to monetize open source software include offering support and maintenance services, selling proprietary extensions, and using crowdfunding for development. Charging directly for the software itself is not typical for open source projects.",
+    "difficulty": "Medium",
+    "topic_weight": 1
+  },
+  "1.4_MCQ_1": {
+    "id": "1.4_MCQ_1",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "What is the primary function of the 'Terminal' in Linux?",
+    "choices": ["To browse the internet", "To provide a graphical interface for system administration", "To offer a command-line interface for system operations", "To manage user accounts only"],
+    "correct_answers": ["To offer a command-line interface for system operations"],
+    "explanation": "The Terminal in Linux is used primarily to offer a command-line interface where users can execute commands to perform system operations.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_2": {
+    "id": "1.4_MCQ_2",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "In the context of privacy concerns on Linux, what is a key advantage of using open source web browsers?",
+    "choices": ["Faster browsing speed", "Enhanced customization options", "Better integration with the operating system", "Increased transparency and control over data"],
+    "correct_answers": ["Increased transparency and control over data"],
+    "explanation": "Open source web browsers offer increased transparency and control over data, addressing privacy concerns as users can inspect and modify the source code.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_3": {
+    "id": "1.4_MCQ_3",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "Which command is used to start a new shell session in Linux?",
+    "choices": ["start", "run", "bash", "launch"],
+    "correct_answers": ["bash"],
+    "explanation": "The 'bash' command is used to start a new Bourne Again SHell (bash) session, which is a common command-line interface in Linux.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_4": {
+    "id": "1.4_MCQ_4",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "What is the significance of password issues in Linux?",
+    "choices": ["Passwords are not necessary in Linux", "Passwords are the primary method for user authentication", "Linux does not support password encryption", "Passwords are only used for administrative tasks"],
+    "correct_answers": ["Passwords are the primary method for user authentication"],
+    "explanation": "In Linux, passwords are crucial as they are the primary method for user authentication, securing user accounts and system access.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_5": {
+    "id": "1.4_MCQ_5",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "How does Linux contribute to privacy and security in comparison to other operating systems?",
+    "choices": ["By default, Linux does not require internet access", "Linux is less susceptible to viruses and malware", "Linux systems do not support user accounts", "All Linux applications are encrypted"],
+    "correct_answers": ["Linux is less susceptible to viruses and malware"],
+    "explanation": "Linux is generally considered more secure and less susceptible to viruses and malware due to its open-source nature and robust user permission system.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_6": {
+    "id": "1.4_MCQ_6",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "What is the main advantage of using common open source applications in Linux for presentations and projects?",
+    "choices": ["They provide more features than proprietary applications", "They guarantee better compatibility with all devices", "They offer greater customization and flexibility", "They are always free of cost"],
+    "correct_answers": ["They offer greater customization and flexibility"],
+    "explanation": "Open source applications in Linux offer greater customization and flexibility, allowing users to modify and tailor the applications according to their specific needs.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_7": {
+    "id": "1.4_MCQ_7",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "Which tool is essential for addressing privacy concerns while searching the web on Linux?",
+    "choices": ["A virtual private network (VPN)", "A proprietary web browser", "A disk encryption tool", "A firewall application"],
+    "correct_answers": ["A virtual private network (VPN)"],
+    "explanation": "A virtual private network (VPN) is essential for enhancing privacy while searching the web on Linux, as it encrypts internet traffic and masks the user's IP address.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+
+  "1.4_MAQ_1": {
+    "id": "1.4_MAQ_1",
+    "subtopic": "1.4",
+    "type": "MAQ",
+    "text": "Select all true statements about working in Linux:",
+    "choices": ["Linux primarily uses a graphical user interface", "Command-line skills are essential for system administration", "Linux does not support web browsing", "Privacy tools are available for secure internet usage"],
+    "correct_answers": ["Command-line skills are essential for system administration", "Privacy tools are available for secure internet usage"],
+    "explanation": "While Linux can use graphical user interfaces, command-line skills are crucial for effective system administration. Additionally, Linux offers various tools for enhancing privacy and security during internet usage.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+
+  "1.4_MAQ_2": {
+    "id": "1.4_MAQ_2",
+    "subtopic": "1.4",
+    "type": "MAQ",
+    "text": "Which of the following are benefits of open source software for desktop applications on Linux?",
+    "choices": ["Higher cost compared to proprietary software", "Limited customization options", "Ability to inspect and modify the source code", "Community-driven development and support"],
+    "correct_answers": ["Ability to inspect and modify the source code", "Community-driven development and support"],
+    "explanation": "Open source software for desktop applications on Linux allows users to inspect and modify the source code, offering high customization. They also benefit from community-driven development and support.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "1.4_MAQ_3": {
+    "id": "1.4_MAQ_3",
+    "subtopic": "1.4",
+    "type": "MAQ",
+    "text": "Identify the common open source applications used in Linux for presentations and projects:",
+    "choices": ["Microsoft Office", "LibreOffice", "Adobe Photoshop", "GIMP"],
+    "correct_answers": ["LibreOffice", "GIMP"],
+    "explanation": "LibreOffice and GIMP are common open source applications used in Linux for creating presentations and graphics projects, offering flexibility and extensive features.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+  "1.4_MCQ_8": {
+    "id": "1.4_MCQ_8",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "Which command in Linux allows users to switch to a different user account?",
+    "choices": ["passwd", "su", "usermod", "chown"],
+    "correct_answers": ["su"],
+    "explanation": "The 'su' command is used to switch to a different user account in Linux, allowing users to execute commands with the privileges of that account.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_9": {
+    "id": "1.4_MCQ_9",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "In Linux, which utility is commonly used to compress and decompress files?",
+    "choices": ["tar", "gzip", "chmod", "cp"],
+    "correct_answers": ["gzip"],
+    "explanation": "The 'gzip' utility is commonly used in Linux for file compression and decompression.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_10": {
+    "id": "1.4_MCQ_10",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "Which command is used to change the owner of a file or directory in Linux?",
+    "choices": ["chown", "chmod", "chgrp", "usermod"],
+    "correct_answers": ["chown"],
+    "explanation": "The 'chown' command is used to change the owner of a file or directory in Linux.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_11": {
+    "id": "1.4_MCQ_11",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "Which file in Linux contains system-wide environment variables and startup scripts?",
+    "choices": ["/etc/environment", "/etc/profile", "/etc/bashrc", "/etc/hosts"],
+    "correct_answers": ["/etc/profile"],
+    "explanation": "The '/etc/profile' file contains system-wide environment settings and startup scripts for the shell in Linux.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_12": {
+    "id": "1.4_MCQ_12",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "Which command in Linux is used to view the manual page of other commands?",
+    "choices": ["help", "man", "info", "doc"],
+    "correct_answers": ["man"],
+    "explanation": "The 'man' command is used to display the manual page of other commands in Linux, providing detailed information on their usage.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_13": {
+    "id": "1.4_MCQ_13",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "In Linux, what does the 'ping' command do?",
+    "choices": ["Measures the network speed", "Sends ICMP ECHO_REQUEST to network hosts", "Changes file permissions", "Manages system services"],
+    "correct_answers": ["Sends ICMP ECHO_REQUEST to network hosts"],
+    "explanation": "The 'ping' command is used to send ICMP ECHO_REQUEST packets to network hosts in order to diagnose network connectivity issues.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "1.4_MCQ_14": {
+    "id": "1.4_MCQ_14",
+    "subtopic": "1.4",
+    "type": "MCQ",
+    "text": "Which Linux command is used to display the current working directory?",
+    "choices": ["pwd", "cd", "ls", "dir"],
+    "correct_answers": ["pwd"],
+    "explanation": "The 'pwd' (print working directory) command in Linux is used to display the current directory a user is in.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "1.4_MAQ_4": {
+    "id": "1.4_MAQ_4",
+    "subtopic": "1.4",
+    "type": "MAQ",
+    "text": "Which of the following commands are used for managing files and directories in Linux?",
+    "choices": ["ls", "chmod", "grep", "mkdir", "rm"],
+    "correct_answers": ["ls", "chmod", "mkdir", "rm"],
+    "explanation": "'ls' is used to list files and directories, 'chmod' to change file permissions, 'mkdir' to create directories, and 'rm' to remove files or directories.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "1.4_MAQ_5": {
+    "id": "1.4_MAQ_5",
+    "subtopic": "1.4",
+    "type": "MAQ",
+    "text": "Select all true statements about Linux file permissions:",
+    "choices": ["Permissions are represented as 'rwx' for read, write, execute", "Only the root user can change file permissions", "The 'chmod' command is used to change permissions", "File permissions are not important for security"],
+    "correct_answers": ["Permissions are represented as 'rwx' for read, write, execute", "The 'chmod' command is used to change permissions"],
+    "explanation": "In Linux, file permissions are represented as 'rwx' for read, write, and execute. The 'chmod' command is used to change these permissions. File permissions are important for security, and users other than root can also change permissions for files they own.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "1.4_MAQ_6": {
+    "id": "1.4_MAQ_6",
+    "subtopic": "1.4",
+    "type": "MAQ",
+    "text": "What are the functions of the 'sudo' and 'su' commands in Linux?",
+    "choices": ["To change the current working directory", "To execute a command as another user", "To display the contents of a file", "To switch to a different user account"],
+    "correct_answers": ["To execute a command as another user", "To switch to a different user account"],
+    "explanation": "The 'sudo' command is used to execute a command as another user (typically the superuser), and the 'su' command is used to switch to a different user account.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "2.1_MCQ_1": {
+    "id": "2.1_MCQ_1",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "What is the purpose of the PATH environment variable in Linux?",
+    "choices": ["To set the system time", "To define the location of executable files", "To store user passwords", "To configure network settings"],
+    "correct_answers": ["To define the location of executable files"],
+    "explanation": "The PATH environment variable specifies the directories in which the shell looks for executable files.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_2": {
+    "id": "2.1_MCQ_2",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "In Bash, what is the result of using the 'echo' command?",
+    "choices": ["It modifies file permissions", "It displays a message or value of a variable", "It changes the current directory", "It lists the contents of a directory"],
+    "correct_answers": ["It displays a message or value of a variable"],
+    "explanation": "The 'echo' command in Bash is used to display a line of text/string that is passed as an argument.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_3": {
+    "id": "2.1_MCQ_3",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "What does the 'history' command in Linux do?",
+    "choices": ["Displays the recently used commands", "Shows the version history of a file", "Lists the user's command history permissions", "Checks the system's hardware history"],
+    "correct_answers": ["Displays the recently used commands"],
+    "explanation": "The 'history' command in Linux displays the list of commands previously entered by the user in the current session.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_4": {
+    "id": "2.1_MCQ_4",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "What is the function of the 'export' command in a Linux shell?",
+    "choices": ["To transfer files over the network", "To save the current shell session's settings", "To set or display environment variables", "To export data from a database"],
+    "correct_answers": ["To set or display environment variables"],
+    "explanation": "The 'export' command in a Linux shell is used to set or display environment variables.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_5": {
+    "id": "2.1_MCQ_5",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "Which command is used to display the type of a command in Linux?",
+    "choices": ["type", "commandtype", "cmdtype", "showtype"],
+    "correct_answers": ["type"],
+    "explanation": "The 'type' command in Linux is used to display the kind of a command (whether it is built-in, an alias, or a file).",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_6": {
+    "id": "2.1_MCQ_6",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "In Linux, what does the 'type echo' command return?",
+    "choices": ["The file path of the echo command", "The version of the echo command", "The type of the echo command (e.g., built-in, alias)", "The source code of the echo command"],
+    "correct_answers": ["The type of the echo command (e.g., built-in, alias)"],
+    "explanation": "The 'type' command followed by another command (e.g., 'echo') returns the type of the specified command, such as whether it is a built-in command or an alias.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_7": {
+    "id": "2.1_MCQ_7",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "How is the 'echo $PATH' command used in Linux?",
+    "choices": ["To modify the PATH variable", "To display the current PATH variable value", "To create a new PATH variable", "To delete the PATH variable"],
+    "correct_answers": ["To display the current PATH variable value"],
+    "explanation": "'echo $PATH' is used to display the current value of the PATH environment variable, which lists the directories the shell searches for commands.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+
+  "2.1_MAQ_1": {
+    "id": "2.1_MAQ_1",
+    "subtopic": "2.1",
+    "type": "MAQ",
+    "text": "Select all correct statements about the Bash shell in Linux:",
+    "choices": ["Bash is the default shell in most Linux distributions", "Bash does not support scripting", "Bash stands for 'Born-Again Shell'", "Bash is used only for executing commands"],
+    "correct_answers": ["Bash is the default shell in most Linux distributions", "Bash stands for 'Born-Again Shell'"],
+    "explanation": "Bash, or the 'Born-Again Shell', is the default shell in many Linux distributions and supports scripting. It is not limited to only executing commands.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MAQ_2": {
+    "id": "2.1_MAQ_2",
+    "subtopic": "2.1",
+    "type": "MAQ",
+    "text": "Which of the following are true about environment variables in Linux?",
+    "choices": ["They are used to store system settings", "They can only be set by the root user", "They are session-specific", "They can affect the behavior of commands and programs"],
+    "correct_answers": ["They are used to store system settings", "They are session-specific", "They can affect the behavior of commands and programs"],
+    "explanation": "Environment variables in Linux are used to store system settings and can affect the behavior of commands and programs. They are session-specific but not limited to being set by the root user only.",
+    "difficulty": "Hard",
+    "topic_weight": 3
+  },
+
+  "2.1_MAQ_3": {
+    "id": "2.1_MAQ_3",
+    "subtopic": "2.1",
+    "type": "MAQ",
+    "text": "What are the uses of the 'echo' command in Linux?",
+    "choices": ["To display text or variable values", "To change directory", "To list directory contents", "To append text to a file"],
+    "correct_answers": ["To display text or variable values"],
+    "explanation": "The 'echo' command in Linux is primarily used to display text or the values of variables. It does not change directories, list contents, or append text to files.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+  "2.1_MCQ_8": {
+    "id": "2.1_MCQ_8",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "In Bash, what does the 'set' command do?",
+    "choices": ["Changes the user's password", "Configures network settings", "Displays or sets environment variables", "Installs new software packages"],
+    "correct_answers": ["Displays or sets environment variables"],
+    "explanation": "The 'set' command in Bash is used to display or set environment variables and shell attributes.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_9": {
+    "id": "2.1_MCQ_9",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "What is the purpose of the 'source' command in Linux?",
+    "choices": ["To compile source code", "To update the system software", "To execute commands from a file in the current shell", "To find the source location of an installed package"],
+    "correct_answers": ["To execute commands from a file in the current shell"],
+    "explanation": "The 'source' command in Linux is used to execute commands from a specified file in the current shell, allowing it to affect the current environment.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_10": {
+    "id": "2.1_MCQ_10",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "Which command is used to display the current shell in Linux?",
+    "choices": ["echo $SHELL", "getshell", "currentshell", "shelltype"],
+    "correct_answers": ["echo $SHELL"],
+    "explanation": "The command 'echo $SHELL' is used to display the current shell in Linux, as the SHELL environment variable holds the path to the current user's shell.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_11": {
+    "id": "2.1_MCQ_11",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "What is the role of the '.bashrc' file in Linux?",
+    "choices": ["To manage system services", "To store system-wide environment configurations", "To store user-specific shell configurations and aliases", "To log system events"],
+    "correct_answers": ["To store user-specific shell configurations and aliases"],
+    "explanation": "The '.bashrc' file in Linux is used to store user-specific configurations for the Bash shell, including aliases and functions.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_12": {
+    "id": "2.1_MCQ_12",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "In Bash, what does the 'alias' command do?",
+    "choices": ["Creates a new user account", "Sets up a shortcut to a longer command", "Changes file permissions", "Connects to a remote server"],
+    "correct_answers": ["Sets up a shortcut to a longer command"],
+    "explanation": "The 'alias' command in Bash is used to create shortcuts to longer commands, allowing users to execute them with a shorter alias.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_13": {
+    "id": "2.1_MCQ_13",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "Which command in Linux is used to print the absolute path of a command's executable?",
+    "choices": ["execpath", "findpath", "which", "pathfind"],
+    "correct_answers": ["which"],
+    "explanation": "The 'which' command in Linux is used to locate and print the absolute path of the executable file associated with a given command.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_14": {
+    "id": "2.1_MCQ_14",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "What is the purpose of the '~' (tilde) character in Linux?",
+    "choices": ["It represents the root directory", "It represents the current user's home directory", "It is used for kernel operations", "It is used to denote hidden files"],
+    "correct_answers": ["It represents the current user's home directory"],
+    "explanation": "In Linux, the '~' (tilde) character is used as a shorthand representation of the current user's home directory.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+
+  "2.1_MAQ_4": {
+    "id": "2.1_MAQ_4",
+    "subtopic": "2.1",
+    "type": "MAQ",
+    "text": "Which of the following are valid uses of the 'echo' command in a shell script?",
+    "choices": ["Displaying a message to the user", "Redirecting output to a file", "Changing directory", "Running a command in the background", "Displaying the value of a variable"],
+    "correct_answers": ["Displaying a message to the user", "Redirecting output to a file", "Displaying the value of a variable"],
+    "explanation": "In a shell script, the 'echo' command can be used to display messages to the user, redirect output to a file, and display the value of a variable. It is not used for changing directories or running commands in the background.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MAQ_5": {
+    "id": "2.1_MAQ_5",
+    "subtopic": "2.1",
+    "type": "MAQ",
+    "text": "Select all true statements about the 'bash' command:",
+    "choices": ["It is used to start a new instance of the Bash shell", "It compiles Bash scripts", "It can execute a script without starting a new shell", "It displays the Bash version"],
+    "correct_answers": ["It is used to start a new instance of the Bash shell", "It can execute a script without starting a new shell"],
+    "explanation": "The 'bash' command is used to start a new instance of the Bash shell. It can also execute a script within the current shell without starting a new instance. It does not compile scripts or display the Bash version.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MAQ_6": {
+    "id": "2.1_MAQ_6",
+    "subtopic": "2.1",
+    "type": "MAQ",
+    "text": "What are the functionalities of the '.bash_profile' and '.bash_logout' files in Linux?",
+    "choices": ["Initializing user environments", "Managing system services", "Logging user activities", "Running commands at login", "Running commands at logout"],
+    "correct_answers": ["Initializing user environments", "Running commands at login", "Running commands at logout"],
+    "explanation": "The '.bash_profile' file is used for initializing user environments and can contain commands that run at login, while '.bash_logout' contains commands that run at logout.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+  "2.1_MCQ_15": {
+    "id": "2.1_MCQ_15",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "In Linux, what is the purpose of the 'pwd' command?",
+    "choices": ["To change the password of the current user", "To display the present working directory", "To list the contents of the current directory", "To create a new directory"],
+    "correct_answers": ["To display the present working directory"],
+    "explanation": "The 'pwd' (print working directory) command in Linux is used to display the path of the current working directory.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_16": {
+    "id": "2.1_MCQ_16",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "What is the effect of using the '>&' operator in Bash?",
+    "choices": ["Redirects both standard output and standard error to a file", "Compares two file contents", "Appends standard output to a file", "Sends a process to the background"],
+    "correct_answers": ["Redirects both standard output and standard error to a file"],
+    "explanation": "The '>&' operator in Bash is used to redirect both standard output (stdout) and standard error (stderr) to a specified file.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_17": {
+    "id": "2.1_MCQ_17",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "In Linux, which command is used to count the number of lines, words, and characters in a file?",
+    "choices": ["count", "wc", "strlen", "lwcc"],
+    "correct_answers": ["wc"],
+    "explanation": "The 'wc' (word count) command in Linux is used to count the number of lines, words, and characters in a file.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_18": {
+    "id": "2.1_MCQ_18",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "What does the 'grep' command do in Linux?",
+    "choices": ["Edits text within a file", "Searches for a text pattern within files", "Graphically displays file contents", "Groups files into a directory"],
+    "correct_answers": ["Searches for a text pattern within files"],
+    "explanation": "The 'grep' command in Linux is used for searching plain-text data for lines matching a regular expression or a specified pattern.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_19": {
+    "id": "2.1_MCQ_19",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "In Bash scripting, what is the use of the 'if' statement?",
+    "choices": ["To iterate over a series of values", "To perform file manipulation", "To make decisions based on conditions", "To define a function"],
+    "correct_answers": ["To make decisions based on conditions"],
+    "explanation": "In Bash scripting, the 'if' statement is used to make decisions in the script based on the evaluation of conditions.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_20": {
+    "id": "2.1_MCQ_20",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "Which symbol is used in Bash to denote the end of options and the start of arguments in a command?",
+    "choices": ["-", "--", ":", ";"],
+    "correct_answers": ["--"],
+    "explanation": "In Bash, the '--' symbol is often used to signify the end of command options and the beginning of arguments.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MAQ_7": {
+    "id": "2.1_MAQ_7",
+    "subtopic": "2.1",
+    "type": "MAQ",
+    "text": "Which of the following are valid reasons to use shell scripting in Linux?",
+    "choices": ["To automate repetitive tasks", "To enhance the graphical interface", "To perform system boot processes", "To interact with the operating system at a low level", "To simplify complex command sequences"],
+    "correct_answers": ["To automate repetitive tasks", "To simplify complex command sequences"],
+    "explanation": "Shell scripting in Linux is commonly used to automate repetitive tasks and to simplify complex command sequences by combining them into a single script.",
+    "difficulty": "Medium",
+    "topic_weight": 3
+  },
+
+  "2.1_MAQ_8": {
+    "id": "2.1_MAQ_8",
+    "subtopic": "2.1",
+    "type": "MAQ",
+    "text": "Select all correct statements about the 'echo' command in Bash:",
+    "choices": ["It can be used to display text", "It is only used for outputting errors", "It can be used to display the value of variables", "It changes the content of a file"],
+    "correct_answers": ["It can be used to display text", "It can be used to display the value of variables"],
+    "explanation": "The 'echo' command in Bash is commonly used to display text and the value of variables. It is not restricted to outputting errors nor does it change the content of files.",
+    "difficulty": "Easy",
+    "topic_weight": 3
+  },
+  "2.1_MCQ_21": {
+    "id": "2.1_MCQ_21",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "In Bash scripting, what is the significance of the 'set -e' command?",
+    "choices": ["Sets the environment variables globally", "Enables the script to continue execution on errors", "Exits the script when a command returns a non-zero status", "Encrypts the script for security"],
+    "correct_answers": ["Exits the script when a command returns a non-zero status"],
+    "explanation": "The 'set -e' command in Bash scripting is used to ensure that the script exits immediately if any command returns a non-zero status, which typically indicates an error.",
+    "difficulty": "Hard",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_22": {
+    "id": "2.1_MCQ_22",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "What does the command 'export PATH=$PATH:/new/path' achieve in a Linux environment?",
+    "choices": ["Deletes the existing PATH variable", "Replaces the PATH variable with '/new/path'", "Appends '/new/path' to the existing PATH variable", "Creates a new PATH variable only for the current session"],
+    "correct_answers": ["Appends '/new/path' to the existing PATH variable"],
+    "explanation": "The command 'export PATH=$PATH:/new/path' appends the '/new/path' to the existing PATH environment variable, extending the list of directories the shell searches for executable files.",
+    "difficulty": "Hard",
+    "topic_weight": 3
+  },
+
+  "2.1_MCQ_23": {
+    "id": "2.1_MCQ_23",
+    "subtopic": "2.1",
+    "type": "MCQ",
+    "text": "In Linux, what does the command 'type -a command_name' display?",
+    "choices": ["All user-defined aliases for 'command_name'", "The source code of 'command_name'", "All places where 'command_name' can be found in PATH", "The version information of 'command_name'"],
+    "correct_answers": ["All places where 'command_name' can be found in PATH"],
+    "explanation": "The 'type -a command_name' command in Linux displays all locations in the PATH where 'command_name' is located, including aliases and functions.",
+    "difficulty": "Hard",
+    "topic_weight": 3
+  },
+
+  "2.1_MAQ_9": {
+    "id": "2.1_MAQ_9",
+    "subtopic": "2.1",
+    "type": "MAQ",
+    "text": "Select all true statements about the use of quotation marks in Bash scripting:",
+    "choices": ["Single quotes prevent the expansion of variables", "Double quotes allow the expansion of variables", "Backticks are used for command substitution", "No difference exists between single and double quotes"],
+    "correct_answers": ["Single quotes prevent the expansion of variables", "Double quotes allow the expansion of variables", "Backticks are used for command substitution"],
+    "explanation": "In Bash scripting, single quotes ('') prevent variable expansion, double quotes (\"\") allow variable expansion, and backticks (` `) are used for command substitution.",
+    "difficulty": "Hard",
+    "topic_weight": 3
+  },
+
+  "2.1_MAQ_10": {
+    "id": "2.1_MAQ_10",
+    "subtopic": "2.1",
+    "type": "MAQ",
+    "text": "Which of the following statements about Bash variable scopes are correct?",
+    "choices": ["Local variables are available only within the function they are defined in", "Environment variables are available to all child processes", "Shell variables are available only to the shell session they are created in", "Variables created with 'export' are always global"],
+    "correct_answers": ["Local variables are available only within the function they are defined in", "Environment variables are available to all child processes", "Shell variables are available only to the shell session they are created in"],
+    "explanation": "In Bash, local variables are limited to the function scope, environment variables are inherited by child processes, and shell variables exist only within the shell session they are defined in. The 'export' command makes a variable an environment variable, but not necessarily global.",
+    "difficulty": "Hard",
+    "topic_weight": 3
+  },
+  "2.2_MCQ_1": {
+    "id": "2.2_MCQ_1",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "What is the primary use of the 'man' command in Linux?",
+    "choices": ["To manage user accounts", "To display the manual pages of commands", "To edit text files", "To monitor system performance"],
+    "correct_answers": ["To display the manual pages of commands"],
+    "explanation": "The 'man' command in Linux is used to display the manual pages of commands, providing detailed information on their usage and options.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_2": {
+    "id": "2.2_MCQ_2",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "In Linux, how can you access the documentation for a command stored in '/usr/share/doc/'?",
+    "choices": ["Using the 'doc' command", "By browsing the directory with a file manager", "Using the 'man' command with the file path", "By compiling the documentation files"],
+    "correct_answers": ["By browsing the directory with a file manager"],
+    "explanation": "Documentation stored in '/usr/share/doc/' can be accessed by browsing the directory with a file manager or using command-line tools to view the files.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_3": {
+    "id": "2.2_MCQ_3",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "What is the purpose of the 'info' command in Linux?",
+    "choices": ["To show system information", "To display a command's info pages", "To configure network settings", "To check disk usage"],
+    "correct_answers": ["To display a command's info pages"],
+    "explanation": "The 'info' command in Linux is used to display a command's info pages, which are a detailed set of documentation similar to man pages.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_4": {
+    "id": "2.2_MCQ_4",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "How can you determine the location of a command's executable in Linux?",
+    "choices": ["Using the 'whereis' command", "With the 'locate' command", "By using the 'find' command", "Through the 'path' command"],
+    "correct_answers": ["Using the 'whereis' command"],
+    "explanation": "The 'whereis' command in Linux is used to locate the binary, source, and manual page files for a command, making it useful for finding the location of a command's executable.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_5": {
+    "id": "2.2_MCQ_5",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "What does the 'apropos' command do in Linux?",
+    "choices": ["Allocates appropriate memory", "Searches the manual page names and descriptions", "Configures application properties", "Manages user privileges"],
+    "correct_answers": ["Searches the manual page names and descriptions"],
+    "explanation": "The 'apropos' command in Linux searches the manual page names and descriptions, helping users find relevant man pages based on keywords.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_6": {
+    "id": "2.2_MCQ_6",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "In Linux, which command is used to list the manual pages related to a specific keyword?",
+    "choices": ["man -k", "info -k", "doc -k", "help -k"],
+    "correct_answers": ["man -k"],
+    "explanation": "The 'man -k' command in Linux is used to search for manual pages that contain a specified keyword, functioning similarly to the 'apropos' command.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.2_MAQ_1": {
+    "id": "2.2_MAQ_1",
+    "subtopic": "2.2",
+    "type": "MAQ",
+    "text": "Select all true statements about accessing help in Linux:",
+    "choices": ["'man' displays detailed manual pages for commands", "'info' provides a brief overview of commands", "Documentation can also be found in '/usr/share/doc/'", "The 'help' command shows system hardware information"],
+    "correct_answers": ["'man' displays detailed manual pages for commands", "Documentation can also be found in '/usr/share/doc/'"],
+    "explanation": "'man' is used for accessing detailed manual pages, and documentation can be found in '/usr/share/doc/'. 'info' provides detailed, not brief, information, and the 'help' command is for shell built-ins, not hardware information.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+
+  "2.2_MAQ_2": {
+    "id": "2.2_MAQ_2",
+    "subtopic": "2.2",
+    "type": "MAQ",
+    "text": "Which of the following are valid ways to get help for a command in Linux?",
+    "choices": ["Using the 'man' command", "Searching in the '/usr/share/doc/' directory", "Using online forums and documentation", "Running the command with the '--help' flag"],
+    "correct_answers": ["Using the 'man' command", "Searching in the '/usr/share/doc/' directory", "Running the command with the '--help' flag"],
+    "explanation": "In Linux, you can get help for a command using the 'man' command, searching in the '/usr/share/doc/' directory, or running the command with the '--help' flag. Online forums are helpful but not a direct method provided by the system.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+  "2.2_MCQ_7": {
+    "id": "2.2_MCQ_7",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "Which command in Linux displays the location of the binary, source, and manual page files for a given command?",
+    "choices": ["locate", "find", "whereis", "which"],
+    "correct_answers": ["whereis"],
+    "explanation": "The 'whereis' command in Linux is used to display the locations of the binary, source, and manual page files for a specified command.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_8": {
+    "id": "2.2_MCQ_8",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "In Linux, what is the function of the 'whatis' command?",
+    "choices": ["To display the version of the Linux kernel", "To show a one-line description of a command", "To list users currently logged into the system", "To check disk space usage"],
+    "correct_answers": ["To show a one-line description of a command"],
+    "explanation": "The 'whatis' command in Linux provides a brief one-line description of a command, typically extracted from the man pages.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_9": {
+    "id": "2.2_MCQ_9",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "How can you view the manual page for a specific section in Linux?",
+    "choices": ["man <section> <command>", "man -s <command> <section>", "man <command> -s <section>", "man <command> <section>"],
+    "correct_answers": ["man <section> <command>"],
+    "explanation": "To view a manual page for a specific section, the syntax 'man <section> <command>' is used, where <section> is the section number and <command> is the name of the command.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.2_MAQ_3": {
+    "id": "2.2_MAQ_3",
+    "subtopic": "2.2",
+    "type": "MAQ",
+    "text": "Select all true statements regarding Linux documentation:",
+    "choices": ["The 'man' command is used for detailed command documentation", "'info' pages are less detailed than 'man' pages", "System documentation can be found in '/usr/share/doc/'", "'help' provides information on shell built-in commands"],
+    "correct_answers": ["The 'man' command is used for detailed command documentation", "System documentation can be found in '/usr/share/doc/'", "'help' provides information on shell built-in commands"],
+    "explanation": "'man' provides detailed command documentation, '/usr/share/doc/' contains system documentation, and 'help' offers information on shell built-ins. 'info' pages are often more detailed than 'man' pages.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+
+  "2.2_MAQ_4": {
+    "id": "2.2_MAQ_4",
+    "subtopic": "2.2",
+    "type": "MAQ",
+    "text": "Which commands are useful for finding help on specific topics in Linux?",
+    "choices": ["man", "info", "apropos", "whereis", "help"],
+    "correct_answers": ["man", "info", "apropos", "whereis"],
+    "explanation": "'man', 'info', 'apropos', and 'whereis' are useful commands for finding help on specific topics in Linux. 'help' is more specific to shell built-ins.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+  "2.2_MCQ_10": {
+    "id": "2.2_MCQ_10",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "What is the purpose of the 'whatis' command in Linux?",
+    "choices": ["To display a brief description of a command", "To show the current Linux version", "To list all users on the system", "To locate a file in the system"],
+    "correct_answers": ["To display a brief description of a command"],
+    "explanation": "The 'whatis' command in Linux is used to display a brief one-line description of a command, usually taken from its man page.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_11": {
+    "id": "2.2_MCQ_11",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "How do you access the info pages for a specific command in Linux?",
+    "choices": ["info <command>", "man -i <command>", "<command> --info", "docs <command>"],
+    "correct_answers": ["info <command>"],
+    "explanation": "The 'info <command>' command is used to access the info pages for a specific command in Linux, which provide detailed documentation.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_12": {
+    "id": "2.2_MCQ_12",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "Which command helps you find the manual page that contains a specified keyword?",
+    "choices": ["findman <keyword>", "man -k <keyword>", "grep <keyword> man", "mansearch <keyword>"],
+    "correct_answers": ["man -k <keyword>"],
+    "explanation": "The 'man -k <keyword>' command searches the short descriptions and manual page names for the given keyword, functioning like an apropos search.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_13": {
+    "id": "2.2_MCQ_13",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "In Linux, how can you view the documentation files stored in '/usr/share/doc/'?",
+    "choices": ["Using the 'docview' command", "By using a text editor or file viewer", "With the 'man' command and directory path", "Through the 'doc' command"],
+    "correct_answers": ["By using a text editor or file viewer"],
+    "explanation": "Documentation files stored in '/usr/share/doc/' can be viewed by navigating to the directory and using a text editor or file viewer to open the files.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_14": {
+    "id": "2.2_MCQ_14",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "What does the 'locate' command do in Linux?",
+    "choices": ["Finds the location of a binary file", "Searches the database for file paths matching a pattern", "Locates the nearest server for updates", "Finds user accounts with specified privileges"],
+    "correct_answers": ["Searches the database for file paths matching a pattern"],
+    "explanation": "The 'locate' command in Linux searches a database of file paths on the system to quickly find files that match a specified pattern.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_15": {
+    "id": "2.2_MCQ_15",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "What is the difference between 'man' and 'info' commands in Linux?",
+    "choices": ["'man' is for system commands, 'info' is for user commands", "'man' provides detailed documentation, 'info' provides brief summaries", "'man' uses a traditional display, 'info' has a hypertext-like interface", "There is no difference, they provide the same information"],
+    "correct_answers": ["'man' uses a traditional display, 'info' has a hypertext-like interface"],
+    "explanation": "While both 'man' and 'info' commands provide documentation, 'man' displays it in a traditional format, whereas 'info' provides a more detailed, hypertext-like interface.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.2_MCQ_16": {
+    "id": "2.2_MCQ_16",
+    "subtopic": "2.2",
+    "type": "MCQ",
+    "text": "Which command in Linux can be used to update the database used by the 'locate' command?",
+    "choices": ["updatedb", "refreshdb", "updatelocate", "renewdb"],
+    "correct_answers": ["updatedb"],
+    "explanation": "The 'updatedb' command is used in Linux to update the database that the 'locate' command searches, ensuring it has the latest file path information.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.2_MAQ_5": {
+    "id": "2.2_MAQ_5",
+    "subtopic": "2.2",
+    "type": "MAQ",
+    "text": "Select all true statements about the 'man' command in Linux:",
+    "choices": ["It can display information in different languages", "It requires an internet connection to work", "It can show documentation for system and user commands", "It only displays information for installed packages"],
+    "correct_answers": ["It can display information in different languages", "It can show documentation for system and user commands"],
+    "explanation": "The 'man' command can display documentation in different languages (if available) and for both system and user commands. It doesn't require an internet connection and can show information for non-installed packages if their man pages are available.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+
+  "2.2_MAQ_6": {
+    "id": "2.2_MAQ_6",
+    "subtopic": "2.2",
+    "type": "MAQ",
+    "text": "Which of the following commands are used for accessing command documentation in Linux?",
+    "choices": ["man", "info", "help", "doc", "apropos"],
+    "correct_answers": ["man", "info", "help", "apropos"],
+    "explanation": "In Linux, 'man', 'info', 'help', and 'apropos' are commands used for accessing various types of command documentation. There is no 'doc' command for this purpose.",
+    "difficulty": "Hard",
+    "topic_weight": 2
+  },
+
+  "2.2_MAQ_7": {
+    "id": "2.2_MAQ_7",
+    "subtopic": "2.2",
+    "type": "MAQ",
+    "text": "What are the functions of the '/usr/share/doc/' directory in Linux?",
+    "choices": ["Storing system logs", "Holding additional command documentation", "Containing user profiles", "Storing configuration files"],
+    "correct_answers": ["Holding additional command documentation"],
+    "explanation": "The '/usr/share/doc/' directory in Linux is used for holding additional documentation for commands and packages, separate from the standard man and info pages.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+  "2.3_MCQ_1": {
+    "id": "2.3_MCQ_1",
+    "subtopic": "2.3",
+    "type": "MCQ",
+    "text": "In Linux, what is the main purpose of the '/tmp' directory?",
+    "choices": ["To store system logs", "To keep user configuration files", "To hold temporary files used by programs", "To store the system's boot scripts"],
+    "correct_answers": ["To hold temporary files used by programs"],
+    "explanation": "The '/tmp' directory in Linux is used to hold temporary files created by programs, which may be needed only for a short duration.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "2.3_MCQ_2": {
+    "id": "2.3_MCQ_2",
+    "subtopic": "2.3",
+    "type": "MCQ",
+    "text": "What is the primary function of the 'ln' command in Linux?",
+    "choices": ["To create links between files", "To list network configurations", "To load new kernel modules", "To lock user accounts"],
+    "correct_answers": ["To create links between files"],
+    "explanation": "The 'ln' command in Linux is used to create links between files. It can create both hard links and symbolic (soft) links.",
+    "difficulty": "Easy",
+    "topic_weight": 2
+  },
+
+  "2.3_MCQ_3": {
+    "id": "2.3_MCQ_3",
+    "subtopic": "2.3",
+    "type": "MCQ",
+    "text": "What is the difference between a hard link and a symbolic link in Linux?",
+    "choices": ["Hard links cannot cross file systems, symbolic links can", "Symbolic links are not actual files, while hard links are", "Hard links have different inodes than the source file, symbolic links don't", "Symbolic links consume more disk space than hard links"],
+    "correct_answers": ["Hard links cannot cross file systems, symbolic links can"],
+    "explanation": "Hard links cannot span across different file systems, whereas symbolic links can point to files located on different file systems.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.3_MCQ_4": {
+    "id": "2.3_MCQ_4",
+    "subtopic": "2.3",
+    "type": "MCQ",
+    "text": "In Linux, how is the sticky bit represented when viewing permissions with 'ls -l'?",
+    "choices": ["As an 's' at the end of the permission string", "As a 't' at the end of the permission string", "As an '*' at the beginning of the permission string", "As a '+' at the end of the permission string"],
+    "correct_answers": ["As a 't' at the end of the permission string"],
+    "explanation": "The sticky bit in Linux file permissions is represented as a 't' at the end of the permission string when viewing permissions with 'ls -l'.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.3_MCQ_5": {
+    "id": "2.3_MCQ_5",
+    "subtopic": "2.3",
+    "type": "MCQ",
+    "text": "What happens to a symbolic link when the target file is moved or deleted?",
+    "choices": ["The link automatically updates to the new location", "The link breaks and points to a non-existent file", "The link becomes a regular file with the contents of the target", "The link prevents the target file from being moved or deleted"],
+    "correct_answers": ["The link breaks and points to a non-existent file"],
+    "explanation": "When the target of a symbolic link is moved or deleted, the link breaks and points to a non-existent file, making it a 'dangling' link.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.3_MCQ_6": {
+    "id": "2.3_MCQ_6",
+    "subtopic": "2.3",
+    "type": "MCQ",
+    "text": "In the context of Linux file permissions, what does the 'chmod 1777' command do to a directory?",
+    "choices": ["Sets read, write, and execute permissions for everyone and adds the sticky bit", "Makes the directory accessible only by the root user", "Encrypts the directory for security", "Sets the directory as a mount point for external drives"],
+    "correct_answers": ["Sets read, write, and execute permissions for everyone and adds the sticky bit"],
+    "explanation": "The 'chmod 1777' command sets read, write, and execute permissions for all (owner, group, and others) and adds the sticky bit to the directory.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.3_MCQ_7": {
+    "id": "2.3_MCQ_7",
+    "subtopic": "2.3",
+    "type": "MCQ",
+    "text": "How can you determine the inode number of a file in Linux?",
+    "choices": ["Using the 'df -i' command", "Using the 'ls -i' command", "Using the 'inode -show' command", "Using the 'file --inode' command"],
+    "correct_answers": ["Using the 'ls -i' command"],
+    "explanation": "The 'ls -i' command in Linux displays the inode number of files and directories.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.3_MCQ_8": {
+    "id": "2.3_MCQ_8",
+    "subtopic": "2.3",
+    "type": "MCQ",
+    "text": "What is the main difference in the behavior of the '/tmp' and '/var/tmp' directories in Linux?",
+    "choices": ["'/tmp' is for system files, '/var/tmp' is for user files", "'/tmp' is cleared at reboot, '/var/tmp' persists across reboots", "'/var/tmp' is encrypted, '/tmp' is not", "Both are identical in behavior"],
+    "correct_answers": ["'/tmp' is cleared at reboot, '/var/tmp' persists across reboots"],
+    "explanation": "The main difference is that files in '/tmp' are usually cleared at system reboot, whereas files in '/var/tmp' are intended to persist across reboots.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.3_MCQ_9": {
+    "id": "2.3_MCQ_9",
+    "subtopic": "2.3",
+    "type": "MCQ",
+    "text": "In Linux, what is the typical use of the '/run' directory?",
+    "choices": ["To store runtime variable data used by running processes", "To keep scripts that should run at system startup", "To hold temporary files needed during system installation", "To store user-generated scripts"],
+    "correct_answers": ["To store runtime variable data used by running processes"],
+    "explanation": "The '/run' directory in Linux is used to store runtime variable data, such as process identifier files, used by running processes.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  },
+
+  "2.3_MCQ_10": {
+    "id": "2.3_MCQ_10",
+    "subtopic": "2.3",
+    "type": "MCQ",
+    "text": "What is the purpose of the sticky bit when applied to directories like '/tmp' in Linux?",
+    "choices": ["It encrypts the contents of the directory", "It allows files to be executed but not read", "It prevents users from deleting files they do not own", "It speeds up access to files in the directory"],
+    "correct_answers": ["It prevents users from deleting files they do not own"],
+    "explanation": "The sticky bit on directories like '/tmp' is used to prevent users from deleting or modifying files that they do not own, even though the directory permissions may allow write access.",
+    "difficulty": "Medium",
+    "topic_weight": 2
+  }
+
+
+
+
+
+}
+
