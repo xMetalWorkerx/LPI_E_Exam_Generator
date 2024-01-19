@@ -12,7 +12,7 @@ class Exam:
             if num_Questions >= 40:
                 self.num_Questions = num_Questions
             else:
-                num_Questions = 40
+                self.num_Questions = 40
                 print("Number of questions must be at least 40")
         self.id = str(hash(user_ID + str(datetime.now())))
         self.question_pool = self.load_questions()
@@ -28,16 +28,24 @@ class Exam:
             data = json.load(json_file)
         return data
 
-    def create_exam(self, id, num_Questions):
+    def create_exam(self):
         newExam = {}
         topic_list = []
+        max_weight = self.num_Questions*3
+        total_weight = 0
+        df = pd.DataFrame.from_dict(exam.question_pool, orient='index')
+        #print(df[df['subtopic'] == '1.1'])
 
         for topic in self.subtopics:
             for x in range(self.subtopics[topic]["weight"]):
                 topic_list.append(topic)
-        #print(topic_list)
+        random.shuffle(topic_list)
+        print(topic_list)
 
-        for x in range(num_Questions):
+        for topic in topic_list:
+
+
+        #for x in range(self.num_Questions):
             current_topic = random.choice(topic_list)
             #newExam[x] = {element for element in self.question_pool.values() if element['subtopic'] == current_topic}
             #print(newExam[x])
@@ -57,14 +65,10 @@ class Exam:
 
 exam = Exam('jesse', 10)
 #print(exam.get_question_pool()["2.3_MCQ_10"])
-total_weight = 0
-for subtopic in exam.get_subtopics():
-    total_weight += exam.get_subtopics()[subtopic]["weight"]
-#print(total_weight)
-#print(exam.get_subtopics())
+
 
 df = pd.DataFrame.from_dict(exam.question_pool, orient='index')
-print(df[df['subtopic'] == '1.1'])
+print(df[df['subtopic'] == '1.1'].sample(n=2))
 def fun(variable):
     letters = "1.1"
     if (variable == letters):
@@ -75,4 +79,4 @@ questions = list(exam.question_pool.values())
 sub_questions = filter(fun, questions)
 for s in sub_questions:
     print(s)
-exam.create_exam(exam.getID(),exam.get_num_questions())
+exam.create_exam()
